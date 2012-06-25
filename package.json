@@ -1,6 +1,6 @@
 {
   "name": "sugar",
-  "version": "1.2.5-as",
+  "version": "1.2.5",
   "description": "A Javascript library for working with native objects.",
   "keywords": ["functional", "utility", "ender"],
   "homepage": "http://sugarjs.com/",
