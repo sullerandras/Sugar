@@ -3,13 +3,13 @@
   "private": true,
   "version": "1.2.5-as",
   "description": "A Javascript library for working with native objects.",
-  "keywords": ["functional", "utility", "ender"],
+  "keywords": ["functional", "utility"],
   "homepage": "http://sugarjs.com/",
-  "author": "Andrew Plummer",
+  "author": "Andrew Plummer, Andras Suller",
   "main": "./lib/main",
-  "ender": "./release/1.2.5/development/sugar-1.2.5.development.js",
+  "ender": "noop",
   "directories" : {"lib" : "./lib"},
-  "repository" : {"type" : "git", "url": "https://github.com/andrewplummer/Sugar.git"},
+  "repository" : {"type" : "git", "url": "https://github.com/sullerandras/Sugar.git"},
   "engines" : {"node" : ">= 0.4.0"},
   "scripts": {"test": "./unit_tests/node.sh"}
 }
